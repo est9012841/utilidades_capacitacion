@@ -1,0 +1,9 @@
+pyproject.toml
+src/utilidades_capacitacion/__init__.py
+src/utilidades_capacitacion/calculos.py
+src/utilidades_capacitacion/validaciones.py
+src/utilidades_capacitacion.egg-info/PKG-INFO
+src/utilidades_capacitacion.egg-info/SOURCES.txt
+src/utilidades_capacitacion.egg-info/dependency_links.txt
+src/utilidades_capacitacion.egg-info/requires.txt
+src/utilidades_capacitacion.egg-info/top_level.txt

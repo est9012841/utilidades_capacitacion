@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: utilidades_capacitacion
+Version: 0.1.0
+Summary: Paquete local con funciones de calculo y validacion para capacitaciones
+Author-email: Juan Carlos Moya Garcia <juancar.moygar@gmail.com>
+License: MIT
+Project-URL: Homepage, https://github.com/est9012841/utilidades_capacitacion
+Project-URL: Repository, https://github.com/est9012841/utilidades_capacitacion
+Keywords: funciones,validaciones
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: LMDE 7.0 Gigi
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.28
+Requires-Dist: numpy
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: ruff; extra == "dev"

@@ -1,0 +1,7 @@
+requests>=2.28
+numpy
+
+[dev]
+pytest>=7.0
+black
+ruff
